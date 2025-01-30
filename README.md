@@ -2,9 +2,7 @@
 
 This repository contains a Python simulation of **gravitational time dilation** based on the **Schwarzschild equation**. It demonstrates how time slows down near massive celestial bodies like black holes, using the following equation:
 
-\[
-\Delta t' = \Delta t \sqrt{1 - \frac{2GM}{rc^2}}
-\]
+Δt' = Δt * sqrt(1 - (2GM / rc²))
 
 ## Features
 ✅ Calculates time dilation near a massive object (Earth, black hole, etc.)  
